@@ -6,7 +6,7 @@
         "InternalName": "Ktisis",
         "AssemblyVersion": "0.5.11.1",
         "TestingAssemblyVersion": "0.5.11.1",
-        "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+        "RepoUrl": "https://github.com/iRobsie/plugin/blob/main/Release/",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "IsHide": "False",
