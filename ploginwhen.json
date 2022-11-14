@@ -1,0 +1,12 @@
+[
+    {
+        "Author": "ktisis-tools",
+        "Name": "Ktisis",
+        "Description": "Let's you do GPOSE stuff.",
+        "InternalName": "Ktisis",
+        "AssemblyVersion": "1.0.5.5",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Gpose"
+        ],
+]
