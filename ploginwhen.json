@@ -6,7 +6,7 @@
         "InternalName": "Ktisis",
         "AssemblyVersion": "0.5.11.1",
         "TestingAssemblyVersion": "0.5.11.1",
-        "RepoUrl": "https://github.com/iRobsie/plugin/blob/main/Release/",
+        "RepoUrl": "https://github.com/iRobsie/plugin/tree/main/Release",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "IsHide": "False",
@@ -16,9 +16,9 @@
         "LoadPriority": 69420,
         "LoadRequiredState": 2,
         "LoadSync": true,
-        "DownloadLinkInstall": "https://github.com/iRobsie/plugin/blob/main/Release/latest.zip",
-        "DownloadLinkTesting": "https://github.com/iRobsie/plugin/blob/main/Release/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iRobsie/plugin/blob/main/Release/latest.zip",
+        "DownloadLinkInstall": "https://github.com/iRobsie/plugin/tree/main/Release/latest.zip",
+        "DownloadLinkTesting": "https://github.com/iRobsie/plugin/tree/main/Release/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iRobsie/plugin/tree/main/Release/latest.zip",
         "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png"
     }
 ]
