@@ -1,17 +1,20 @@
 [
-    {
-        "Author": "ktisis-tools",
-        "Name": "Ktisis",
-        "Description": "Let's you do GPOSE stuff.",
-        "InternalName": "Ktisis",
-        "AssemblyVersion": "1.0.5.5",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Gpose"
-        ],
+{
+  "Author": "Chirp",
+  "Name": "Ktisis",
+  "InternalName": "Ktisis",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "A robust posing tool for creating screenshots in GPose.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+  "Tags": [
+    "gpose",
+    "posing"
+  ],
         "DalamudApiLevel": 7,
-        "Punchline": "Let's you do GPOSE stuff.",
-        "IconUrl": "https://love.puni.sh/resources/artisan.png",
+        "LoadPriority": 0,
+        "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
+        "Punchline": "A robust posing tool for creating screenshots in GPose."
         "Changelog": "Personal Release until actual release",
         "DownloadLinkInstall": "https://github.com/iRobsie/plugin/blob/main/latest.zip",
         "IsHide": false,
