@@ -12,6 +12,9 @@
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
+  "DownloadLinkInstall": "https://github.com/iRobsie/plugin/blob/main/Release/latest.zip",
+  "DownloadLinkTesting": "https://github.com/iRobsie/plugin/blob/main/Release/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/iRobsie/plugin/blob/main/Release/latest.zip",
+  "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png"
   "Punchline": "A robust posing tool for creating screenshots in GPose."
 }
