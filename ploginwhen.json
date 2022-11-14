@@ -9,4 +9,15 @@
         "Tags": [
             "Gpose"
         ],
+        "DalamudApiLevel": 7,
+        "Punchline": "Let's you do GPOSE stuff.",
+        "IconUrl": "https://love.puni.sh/resources/artisan.png",
+        "Changelog": "Personal Release until actual release",
+        "DownloadLinkInstall": "https://github.com/iRobsie/plugin/blob/main/Release.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/iRobsie/plugin/blob/main/Release.zip",
+        "DownloadLinkUpdate": "https://github.com/iRobsie/plugin/blob/main/Release.zip",
+        "LastUpdate": "1668412128"
+    },
 ]
