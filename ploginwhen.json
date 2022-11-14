@@ -6,7 +6,7 @@
          "AssemblyVersion": "0.1.0.0",
          "Description": "A robust posing tool for creating screenshots in GPose.",
          "ApplicableVersion": "any",
-         "RepoUrl": "https://github.com/iRobsie/plugin/raw/main/latest.zip",
+         "RepoUrl": "https://github.com/iRobsie/plugin/",
   "Tags": [
     "gpose",
     "posing"
