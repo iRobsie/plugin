@@ -6,7 +6,7 @@
          "AssemblyVersion": "0.1.0.0",
          "Description": "A robust posing tool for creating screenshots in GPose.",
          "ApplicableVersion": "any",
-         "RepoUrl": "https://github.com/iRobsie/plugin/blob/main/latest.zip",
+         "RepoUrl": "https://raw.githubusercontent.com/iRobsie/plugin/main/Release/Ktisis.json",
   "Tags": [
     "gpose",
     "posing"
@@ -16,11 +16,11 @@
         "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
         "Punchline": "A robust posing tool for creating screenshots in GPose."
         "Changelog": "Personal Release until actual release",
-        "DownloadLinkInstall": "https://github.com/iRobsie/plugin/blob/main/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/iRobsie/plugin/main/Release/Ktisis.json",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iRobsie/plugin/blob/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iRobsie/plugin/blob/main/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/iRobsie/plugin/main/Release/Ktisis.json",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/iRobsie/plugin/main/Release/Ktisis.json",
         "LastUpdate": "1668412128"
     },
 ]
