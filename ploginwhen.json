@@ -1,12 +1,11 @@
 [
 {
-  "Disabled": false,
-  "Testing": false,
+  "Testing": true,
   "ScheduledForDeletion": false,
   "InstalledFromUrl": "",
   "IsThirdParty": false,
   "EffectiveVersion": "0.1.0.0",
-  "IsAvailableForTesting": false,
+  "IsAvailableForTesting": true,
   "Author": "Chirp",
   "Name": "Ktisis",
   "Punchline": "A robust posing tool for creating screenshots in GPose.",
